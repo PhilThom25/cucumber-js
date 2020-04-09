@@ -1,4 +1,5 @@
 Feature: Environment Hooks
+  # Comment
 
   Background:
     Given a file named "features/a.feature" with:
