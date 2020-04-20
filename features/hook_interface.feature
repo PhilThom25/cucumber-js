@@ -1,4 +1,5 @@
 Feature: After hook interface
+  xxxx
   
   Background:
     Given a file named "features/my_feature.feature" with:
