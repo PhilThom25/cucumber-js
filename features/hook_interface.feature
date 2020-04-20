@@ -1,5 +1,6 @@
 Feature: After hook interface
-
+  Example of hook
+  
   Background:
     Given a file named "features/my_feature.feature" with:
       """
