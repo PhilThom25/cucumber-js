@@ -1,5 +1,5 @@
 Feature: After hook interface
-  xvxvxv
+  popopopo
   
   Background:
     Given a file named "features/my_feature.feature" with:
